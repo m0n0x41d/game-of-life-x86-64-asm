@@ -1,0 +1,33 @@
+# Binary files
+*.o
+*.out
+*.exe
+gol
+
+# Debug files
+*.debug
+*.dSYM/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*~
+
+# Build directories
+build/
+bin/
+obj/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# Core dumps
+core
+*.core
