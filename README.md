@@ -5,6 +5,11 @@ This tiny project creates an interactive visualization of cellular automaton fol
 
 If you don't know the rules of the game, you can read about them [here](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
 
+
+### Demo
+
+![Demo](./assets/demo.gif)
+
 ## Features
 
 - Interactive visualization in terminal
